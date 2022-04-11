@@ -71,10 +71,8 @@ exports.menu = (prefix, salam, pushname) =>{
 │•INFO BOT•
 │VERSI : 0.02
 │FITUR : 300
-│CREATOR : APRILIA
+│CREATOR : NBILABOTZ
 │MODEL SCRIPT : BETA
-│SUBSCRIBE CHANNEL BOT INDO
-│https://www.youtube.com/c/BOTINDO
 ╰───────────────┈ ⳹
 
 ╭─⬣ *List Menu*
