@@ -11,10 +11,10 @@ exports.noregis = (pushname) =>{
 	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` *[❗] Anda Sudah Terdaftar*`
 	}
 exports.eror = () =>{
-	return` Yah eror`
+	return` *[❗] Eror Coba Lagi Nanti*`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -36,20 +36,20 @@ exports.admin = (groupName) =>{
 	return`🙅‍♀️ Command khusus admin ${groupName}`
 	}
 exports.adminB = () =>{
-	return`⚠️ Bot bukan admin grup`
+	return` *[❗] Bot bukan admin Grup*`
 	}
 exports.err = () =>{
-	return`⚠️ Fitur ini sedang eror !`
+	return` *[❗] Fitur ini sedang eror !*`
 	}
 exports.group = () =>{
-	return`🙅‍♀️ Command khusus di dalam group`
+	return` *[❗] Command khusus di dalam group*`
 	}
 
 exports.wait = () =>{
-	return`⏳ Sedang di proses ~`
+	return`*[❗] Sedang Prosess...*`
 	}
 exports.ok = () =>{
-	return` ✅ Oke done ~`
+	return` *[✨] Successss Selesai*`
 	}
 exports.welcome = () =>{
 	return`Jangan Lupa Intro Ya~
